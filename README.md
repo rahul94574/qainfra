@@ -8,3 +8,4 @@ devMain branch include
 include main branch
 edin line 10
 branch merge test merge devMain to master afytetr change in devMain
+lfs test
